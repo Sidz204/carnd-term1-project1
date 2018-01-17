@@ -1,6 +1,6 @@
 # Finding Lanes on the road
 ### Overview
-Human eyes help them to detect the lane lines and consequently help them to steer the vehicle. Similary, cameras and sensors act as eyes for a vehicle to drive autonomously. The first step in this would be to detect lane lines automatically in images and videos using an algorithm which is implemented using python and openCV.Techniques of Canny edge detection and hough transform are used to detect lane lines on the road. 
+Human eyes help them to detect the lane lines and consequently help them to steer the vehicle. Similary, cameras and sensors act as eyes for a vehicle to drive autonomously. The first step in developing a autonomous driving car would be to detect lane lines automatically in images and videos using an algorithm which is implemented using python and openCV.Techniques of Canny edge detection and hough transform are used to detect lane lines on the road. 
 
 ### Project Files
 This project contains two files: a file containing project code and a file containing a brief write up explaining the solution.
