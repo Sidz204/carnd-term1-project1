@@ -4,8 +4,9 @@ Human eyes help them to detect the lane lines and consequently help them to stee
 
 ### Project Files
 This project contains two files: a file containing project code and a file containing a brief write up explaining the solution.
-1. Jupyter Notebook: a IPython file containing project code
+1. Jupyter Notebook: a IPython file containing project code.
 2. Project report : contains brief write up explaining the solution and approach to it.
+3. Environment.yml file : contains environment setup (packages/libraries) that we need for this project.
 
 ### Instruction for running the code:
 - Install anaconda/miniconda or docker 
