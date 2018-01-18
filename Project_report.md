@@ -54,7 +54,7 @@ My pipeline consisted of 6 steps as follows:
 
 
 
-### 2. Potential shortcomings :
+#### 2. Potential shortcomings :
 
 
 One potential shortcoming would be what would happen when the lane is more curved or have a sharp turn. 
@@ -63,7 +63,7 @@ Another shortcoming could be that the lane may fall out of region of interest.
 
 
 
-### 3. Possible improvements :
+#### 3. Possible improvements :
 
 A possible improvement would be to automatically find the region of interest so that this algorithm becomes more robust. 
 
