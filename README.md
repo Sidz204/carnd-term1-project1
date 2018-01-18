@@ -14,4 +14,5 @@ This project contains two files: a file containing project code and a file conta
 - Install anaconda/miniconda or docker 
 - Install jupyter notebooks
 - Please run the environment.yml file so that all the packages and libraries required for this project are imported and environment is created
-- 
+- Test on images in test_images and videos in test_videos folders.
+- If you want to save the final output images please uncomment the plt.savefig() written in code.
