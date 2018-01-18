@@ -8,7 +8,7 @@ Human eyes help them to detect the lane lines and consequently help them to stee
 
 ### Goals/Steps
 * Make a pipeline that finds lane lines on the road
-* Reflect on your work in a written report
+* Reflection of work in a written report
 
 
 ---
