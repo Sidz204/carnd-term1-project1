@@ -11,10 +11,6 @@ Human eyes help them to detect the lane lines and consequently help them to stee
 * Reflect on your work in a written report
 
 
-[//]: # (Image References)
-
-[image1]:
-
 ---
 
 ### Reflection
@@ -25,6 +21,7 @@ My pipeline consisted of 6 steps as follows:
 1. Converting to grayscale and Gaussian smoothing : First, I considered one image and converted it to grayscale, then I applied Gaussian blur to it for suppressing noise and spurious gradients.
 
 2. Applying Canny Edge detection:
+
 
 3. Selecting Region of Interest:
 
