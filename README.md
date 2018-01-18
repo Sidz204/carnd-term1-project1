@@ -7,8 +7,11 @@ This project contains two files: a file containing project code and a file conta
 1. Jupyter Notebook: a IPython file containing project code.
 2. Project report : contains brief write up explaining the solution and approach to it.
 3. Environment.yml file : contains environment setup (packages/libraries) that we need for this project.
+4. test_images and test_images_output : folders for taking images and saving test outputs respectively.
+5. test_videos and test_videos_output : folders for taking videos and saving test outputs respectively
 
 ### Instruction for running the code:
 - Install anaconda/miniconda or docker 
 - Install jupyter notebooks
 - Please run the environment.yml file so that all the packages and libraries required for this project are imported and environment is created
+- 
