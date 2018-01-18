@@ -45,9 +45,9 @@ My pipeline consisted of 6 steps as follows:
    
 ![Image of segments output](/test_images_output/lines_edges.jpg)
 
-
    
 6. Drawing lanes over videos and adjusting parameters : While testing on videos, I found out that some of the lines where going out of the lane scope especially for solidYellowLeft sample video due to horizontal lines at some points in the video. For this reason I further modified my draw_lines() function so that such horizontal lines are ignored while calculating average line.
+
 
 
 
@@ -60,6 +60,7 @@ My pipeline consisted of 6 steps as follows:
 One potential shortcoming would be what would happen when the lane is more curved or have a sharp turn. 
 
 Another shortcoming could be that the lane may fall out of region of interest.
+
 
 
 
